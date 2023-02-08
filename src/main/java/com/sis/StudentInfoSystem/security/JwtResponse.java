@@ -7,8 +7,8 @@ import lombok.NoArgsConstructor;
 
 @Getter
 @Setter
-@AllArgsConstructor
-@NoArgsConstructor
+//@AllArgsConstructor
+//@NoArgsConstructor
 public class JwtResponse {
 	String jwtToken;
 
